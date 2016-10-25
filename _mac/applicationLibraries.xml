@@ -8782,36 +8782,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/socksify-1.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="spring (v1.4.0, RVM: ruby-2.2.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.4.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.4.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.4.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.4.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="spring (v1.6.4, RVM: ruby-2.2.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.6.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.6.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.6.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.6.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="spring (v1.7.1, RVM: ruby-2.2.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.7.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.7.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.7.1/lib" />
-      </SOURCES>
-    </library>
     <library name="spring (v1.7.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.7.2/bin" />
