@@ -1396,6 +1396,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-2.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="capybara-webkit (v1.11.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/templates" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/CFPropertyList-2.2.8/lib" />
