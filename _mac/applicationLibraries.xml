@@ -1398,6 +1398,7 @@
     </library>
     <library name="capybara-webkit (v1.11.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/capybara-webkit/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/src" />
@@ -1405,6 +1406,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/templates" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/capybara-webkit/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capybara-webkit-1.11.1/src" />
