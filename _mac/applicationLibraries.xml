@@ -2508,6 +2508,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.52.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.54.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/excon-0.54.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.6.0, RVM: ruby-2.2.1 [planet-of-triumphs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@planet-of-triumphs/gems/execjs-2.6.0/lib" />
@@ -4142,6 +4156,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="ip_investigator (v1.0@48d27d, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/Ip-Investigator-Gem-48d27d1b241c/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/Ip-Investigator-Gem-48d27d1b241c/lib" />
+      </SOURCES>
+    </library>
     <library name="iso_country_codes (v0.7.5, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/iso_country_codes-0.7.5/lib" />
@@ -4554,6 +4576,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json_mapper (v0.2.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json_mapper-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json_mapper-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="jwt (v1.5.2, RVM: ruby-2.2.1 [planet-of-triumphs]) [gem]">
@@ -5954,6 +5984,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.1.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="pay_dirt (v1.0.9, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/pay_dirt-1.0.9/lib" />
@@ -7032,6 +7072,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.2.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.3.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/lib" />
       </SOURCES>
     </library>
     <library name="ransack (v1.7.0, RVM: ruby-2.2.1 [planet-of-triumphs]) [gem]">
@@ -9774,6 +9826,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/uglifier-3.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/uglifier-3.0.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.0.3, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/uglifier-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/uglifier-3.0.3/lib" />
       </SOURCES>
     </library>
     <library name="ultrahook (v0.1.4, RVM: ruby-2.2.3) [gem]">
