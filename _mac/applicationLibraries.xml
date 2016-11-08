@@ -888,6 +888,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/aws-sdk-2.2.25/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.6.18, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.6.18/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.6.18/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.2.25, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/aws-sdk-core-2.2.25/bin" />
@@ -900,12 +908,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/aws-sdk-core-2.2.25/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.6.18, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.18/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.18/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.18/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.18/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v2.2.25, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/aws-sdk-resources-2.2.25/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/aws-sdk-resources-2.2.25/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.6.18, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.6.18/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.6.18/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-v1 (v1.66.0, RVM: ruby-2.2.1 [planet-of-triumphs]) [gem]">
@@ -5208,6 +5236,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jmespath-1.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="jmespath (v1.3.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jmespath-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jmespath-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-colorbox-rails (v0.3.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-colorbox-rails-0.3.2/lib" />
@@ -6266,6 +6302,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mimemagic-0.3.1/script" />
       </SOURCES>
     </library>
+    <library name="mimemagic (v0.3.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mimemagic-0.3.2/script" />
+      </SOURCES>
+    </library>
     <library name="mini_portile (v0.6.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mini_portile-0.6.2/lib" />
@@ -7260,6 +7306,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-4.3.7/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-4.3.7/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-4.3.7/shoulda_macros" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v5.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/paperclip-5.1.0/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="parser (v2.2.3.0, RVM: ruby-2.2.3 [nycda]) [gem]">
