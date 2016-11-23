@@ -8042,6 +8042,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-cache-1.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-cors (v0.4.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-cors-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-cors-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-flash (v0.1.2, RVM: ruby-2.2.3 [nycda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@nycda/gems/rack-flash-0.1.2/lib" />
